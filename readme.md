@@ -1,13 +1,13 @@
 #ColorConverter.php
 
-Convert between RGB, HSL and HEX color defining with these PHP function under MIT-License  
+Convert between RGB, HSL, CMYK, YUV and HEX color defining with these PHP function under MIT-License  
 translated from https://github.com/SimonWaldherr/ColorConverter.js
 
 ##about
 
 License:   MIT  
-Version: 0.1.0  
-Date:  12.2013  
+Version: 0.1.1  
+Date:  05.2015  
 
 ##download
 
